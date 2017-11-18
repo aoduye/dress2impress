@@ -6,7 +6,7 @@
     color:#890f1d;
     background-color:#a2a9ad; 
 }
-
+/*create spaces between nav*/
 #nav ul{
     font-family: 'noto sans', sans-serif;
     display: flex;
@@ -22,7 +22,7 @@
     margin: 10px;
     font-size: 20px;
 }
-
+/*choose a background color for body*/
 body{
     background-color:#a2a9ad;
     padding: 30px;
@@ -45,7 +45,7 @@ p{
     margin:10px;
 
 }
-
+/*add padding for paragraph*/
 #howtotieatie p{
     text-align:left;
     padding: 5px;
@@ -68,11 +68,13 @@ p{
     padding: 5px;
     margin: 10px;
 }
-
+/*video need flex display*/
 .video {
     display: flex;
     align-items:center;
 }
+
 .paragraph{
     padding-left: 10px;
 }
+
