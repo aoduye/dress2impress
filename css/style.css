@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+#header {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    text-align:center;
+    color:#890f1d;
+    background-color:#a2a9ad; 
+}
+
+#nav ul{
+    font-family: 'noto sans', sans-serif;
+    display: flex;
+    justify-content:center;
+    list-style-type: none;
+}
+
+#nav a{
+    text-decoration: none;
+}
+
+#nav li{
+    margin: 10px;
+    font-size: 20px;
+}
+
+body{
+    background-color:#a2a9ad;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+    color:#890f1d;
+    font-family: 'noto sans',sans-serif;
+}
+p{
+    font-family: 'noto sans', sans-serif;
+}
+.centerpic{
+    text-align: center;
+}
+
+#ties p{
+    text-align: center;
+    padding: 5px;
+    margin:10px;
+
+}
+
+#howtotieatie p{
+    text-align:left;
+    padding: 5px;
+}
+
+#bowties p{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+#howtotieabowtie p{
+    text-align: left;
+    padding: 5px;
+
+}
+
+#wheretobuy p{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+.video {
+    display: flex;
+    align-items:center;
+}
+.paragraph{
+    padding-left: 10px;
+}
